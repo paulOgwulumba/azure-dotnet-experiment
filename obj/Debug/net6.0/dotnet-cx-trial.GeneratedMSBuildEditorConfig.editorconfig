@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnet_cx_trial
 build_property.RootNamespace = dotnet_cx_trial
-build_property.ProjectDir = C:\Users\paul044\documents\dotnet-cx-trial\
+build_property.ProjectDir = c:\Users\paul044\Documents\dotnet-cx-trial\azure-dotnet-experiment\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\paul044\documents\dotnet-cx-trial
+build_property.MSBuildProjectDirectory = c:\Users\paul044\Documents\dotnet-cx-trial\azure-dotnet-experiment
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/Error.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/Index.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/Privacy.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/_ViewImports.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/_ViewStart.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul044/documents/dotnet-cx-trial/Pages/Shared/_Layout.cshtml]
+[c:/Users/paul044/Documents/dotnet-cx-trial/azure-dotnet-experiment/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5bqts4r0g3

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\dotnet-cx-trial.csproj",
+  "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\dotnet-cx-trial.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,38 +16298,38 @@
   "RootNamespace": "dotnet_cx_trial",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\paul044\\documents\\dotnet-cx-trial\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paul044\\Documents\\dotnet-cx-trial\\azure-dotnet-experiment\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
