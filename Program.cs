@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container. Again
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
